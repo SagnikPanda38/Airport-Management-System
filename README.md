@@ -55,7 +55,7 @@ Note: the templates/ folder and its .html files are referenced by the app via re
 bash
 python app.py
 
-By default, Flask runs in debug mode at http://127.0.0.1:5000/.
+
 
 # Routes Summary
 Route	Methods	Description
